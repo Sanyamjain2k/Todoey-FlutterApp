@@ -18,8 +18,8 @@ class Addtask extends StatelessWidget {
               'Add Newtask',
               textAlign: TextAlign.center,
               style: TextStyle(
-                color: Colors.purple.shade400,
-                fontWeight: FontWeight.w700,
+                color: Colors.purple.shade600,
+                fontWeight: FontWeight.w800,
                 fontSize: 30,
               ),
             ),
